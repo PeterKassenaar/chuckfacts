@@ -10,7 +10,12 @@
 
   // 1. Return all quotes
   quoter.getAllQuotes = function () {
-    return quotes;
+    var quoteArr =[];
+    for (var i= 0, j = quotes.length; i < j; i+=1){
+      var newQuote = new singleQuote('OK', i, quotes[i]);
+      quoteArr.push(newQuote);
+    }
+    return quoteArr;
   };
 
   // 2. Get specific quote
@@ -32,7 +37,7 @@
 // 4. Add quote to array
   quoter.addQuote = function (quote) {
     quotes.push(quote);
-    return new singleQuote('OK', quotes.length, quote);
+    return new singleQuote('OK', quotes.length-1, quote);
   };
 
 // 5. Delete quote from array
