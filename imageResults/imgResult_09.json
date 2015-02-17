@@ -1,0 +1,252 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "nextPage": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 90,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 80,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ],
+    "previousPage": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 70,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google CSE"
+  },
+  "searchInformation": {
+    "searchTime": 0.235431,
+    "formattedSearchTime": "0.24",
+    "totalResults": "12300000",
+    "formattedTotalResults": "12,300,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Lucifer and Bruce Lee Vs Michael and Chuck Norris - Battles ...",
+      "htmlTitle": "Lucifer and Bruce Lee Vs Michael and <b>Chuck Norris</b> - Battles <b>...</b>",
+      "link": "http://static.comicvine.com/uploads/original/11114/111142682/3566728-1725117827-chuck.jpg",
+      "displayLink": "www.comicvine.com",
+      "snippet": "Round 1 No prep and morals on.",
+      "htmlSnippet": "Round 1 No prep and morals on.",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.comicvine.com/forums/battles-7/lucifer-and-bruce-lee-vs-michael-and-chuck-norris-1527770/",
+        "height": 425,
+        "width": 337,
+        "byteSize": 32238,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCzee1bW5PI2qBNvmhMKwua-uDBdQcVYrk_qTTbnlZmDVEfwgJ3OFQ_w",
+        "thumbnailHeight": 126,
+        "thumbnailWidth": 100
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "50 Best Chuck Norris Jokes of All Time | Complex",
+      "htmlTitle": "50 Best <b>Chuck Norris</b> Jokes of All Time | Complex",
+      "link": "http://images.complex.com/complex/image/upload/t_article_image/qzbsy9yz3tb0d6ynuioo.jpg",
+      "displayLink": "www.complex.com",
+      "snippet": "Related Stories",
+      "htmlSnippet": "Related Stories",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.complex.com/pop-culture/2012/08/the-50-funniest-chuck-norris-memes-of-all-time/",
+        "height": 400,
+        "width": 620,
+        "byteSize": 59609,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXdhF4bSlpxKfhQLRvj-WWqy4rssgzz07AwuEymDx-FwYC5Q2GJcwA3gs",
+        "thumbnailHeight": 88,
+        "thumbnailWidth": 136
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris High Resolution Wallpaper 1223 Images | wallgraf.",
+      "htmlTitle": "<b>Chuck Norris</b> High Resolution Wallpaper 1223 Images | wallgraf.",
+      "link": "http://www.wallgraf.com/wp-content/uploads/2014/05/ChuckNorris_17118_3.jpg",
+      "displayLink": "www.wallgraf.com",
+      "snippet": "chuck norris high resolution",
+      "htmlSnippet": "<b>chuck norris</b> high resolution",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.wallgraf.com/hd-wallpapers/chuck-norris-high-resolution-wallpaper-1223-images.html",
+        "height": 4200,
+        "width": 2700,
+        "byteSize": 1692232,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDpKStfFIDXK9DcSnYCxvEXnXGX41dHbNin1BNt7hjf_VyXByTe9ycO0h6",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 96
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris vs Van Damme: Epic Split Throw Down",
+      "htmlTitle": "<b>Chuck Norris</b> vs Van Damme: Epic Split Throw Down",
+      "link": "http://guardianlv.com/wp-content/uploads/2013/12/chuck-norris-epic-split.jpg",
+      "displayLink": "guardianlv.com",
+      "snippet": "Chuck Norris and Jean Claude",
+      "htmlSnippet": "<b>Chuck Norris</b> and Jean Claude",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://guardianlv.com/2013/12/chuck-norris-vs-van-damme-epic-split-throw-down/",
+        "height": 945,
+        "width": 1680,
+        "byteSize": 94962,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTm0zb_qP04X_zUfuWj2FcuTwGuRcrgMzRT74dKULml9U3QfDbQtT9thq3h",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "sloth vs chuck norris - Battles - Comic Vine",
+      "htmlTitle": "sloth vs <b>chuck norris</b> - Battles - Comic Vine",
+      "link": "http://www.celebs101.com/gallery/Chuck_Norris/292861/Chuck_Norris_Picture.jpg",
+      "displayLink": "www.comicvine.com",
+      "snippet": "Pretty obvious choice.",
+      "htmlSnippet": "Pretty obvious choice.",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.comicvine.com/forums/battles-7/sloth-vs-chuck-norris-2918/",
+        "height": 425,
+        "width": 337,
+        "byteSize": 28804,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_byDpWzhIj-Xsa1iG5kgQNMjFQ5w6siGeWHSL9SocpYh0oVj07njcSl4",
+        "thumbnailHeight": 126,
+        "thumbnailWidth": 100
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris Funny meme - Memes Picture",
+      "htmlTitle": "<b>Chuck Norris</b> Funny meme - Memes Picture",
+      "link": "http://stuffpoint.com/memes/image/184712-memes-chuck-norris-funny-meme.jpg",
+      "displayLink": "stuffpoint.com",
+      "snippet": "30743 KB. Chuck Norris",
+      "htmlSnippet": "30743 KB. <b>Chuck Norris</b>",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://stuffpoint.com/memes/image/184712/chuck-norris-funny-meme-picture/",
+        "height": 232,
+        "width": 310,
+        "byteSize": 19291,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbON7Cjxtfr5sPAfVgrD5L5vRLHC7IkJFAcnTfY8t5mO2YVJzhjNNO6A",
+        "thumbnailHeight": 88,
+        "thumbnailWidth": 117
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "chuck-norris-15.jpg",
+      "htmlTitle": "<b>chuck</b>-<b>norris</b>-15.jpg",
+      "link": "http://conservativebyte.com/wp-content/uploads/2014/01/chuck-norris-15.jpg",
+      "displayLink": "conservativebyte.com",
+      "snippet": "chuck-norris-15.jpg",
+      "htmlSnippet": "<b>chuck</b>-<b>norris</b>-15.jpg",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://conservativebyte.com/2014/01/chuck-norris-smokes-marijuana-debate/",
+        "height": 310,
+        "width": 413,
+        "byteSize": 45300,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR141ki2e7A2ba1t5vrgDQ59aIHP3AMFc2ORX04e162Jf537SHIBTWOKzo",
+        "thumbnailHeight": 94,
+        "thumbnailWidth": 125
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris",
+      "htmlTitle": "<b>Chuck Norris</b>",
+      "link": "http://static.fjcdn.com/pictures/Chuck+norris_482f06_3242608.jpg",
+      "displayLink": "www.funnyjunk.com",
+      "snippet": "Chuck Norris. . rat will die",
+      "htmlSnippet": "<b>Chuck Norris</b>. . rat will die",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.funnyjunk.com/funny_pictures/3243052/Chuck+norris/",
+        "height": 587,
+        "width": 375,
+        "byteSize": 44574,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDozyqZ2XCwNWA0Nuxk90aOEILw5315uWkdZ1j52NJJCdXyW9FTFUlU0w",
+        "thumbnailHeight": 135,
+        "thumbnailWidth": 86
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris vs Movie Bane - Battles - Comic Vine",
+      "htmlTitle": "<b>Chuck Norris</b> vs Movie Bane - Battles - Comic Vine",
+      "link": "http://files.sharenator.com/chuck_norris-s383x479-135877.jpg",
+      "displayLink": "www.comicvine.com",
+      "snippet": "that Chuck Norris was the",
+      "htmlSnippet": "that <b>Chuck Norris</b> was the",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.comicvine.com/forums/battles-7/chuck-norris-vs-movie-bane-690998/",
+        "height": 479,
+        "width": 383,
+        "byteSize": 65536,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDh7L6dMbhmblkWp61MDHZqahDYzbWZ_hpg81q3O8SPiymF26m1QKQIpeK",
+        "thumbnailHeight": 129,
+        "thumbnailWidth": 103
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "chucknorris.jpeg",
+      "htmlTitle": "<b>chucknorris</b>.jpeg",
+      "link": "http://www.duffelblog.com/wp-content/uploads/2012/03/chucknorris.jpeg",
+      "displayLink": "www.duffelblog.com",
+      "snippet": "chucknorris.jpeg",
+      "htmlSnippet": "<b>chucknorris</b>.jpeg",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.duffelblog.com/2012/03/chuck-norris-joins-army-immediately-promoted-chairman-of-joint-chiefs/",
+        "height": 768,
+        "width": 1024,
+        "byteSize": 520730,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAIBU9Ak8v79D-UXAEgVdj-z9bnEZ-EiFQNM-AvgdqMI2bg-JL-Xtx4ir9",
+        "thumbnailHeight": 113,
+        "thumbnailWidth": 150
+      }
+    }
+  ]
+}

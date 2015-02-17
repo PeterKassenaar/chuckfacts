@@ -10,8 +10,8 @@
 
   // 1. Return all quotes
   quoter.getAllQuotes = function () {
-    var quoteArr =[];
-    for (var i= 0, j = quotes.length; i < j; i+=1){
+    var quoteArr = [];
+    for (var i = 0, j = quotes.length; i < j; i += 1) {
       var newQuote = new singleQuote('OK', i, quotes[i]);
       quoteArr.push(newQuote);
     }
@@ -29,6 +29,7 @@
 
 // 3. Get random quote
   quoter.getRandomQuote = function () {
+    // HIER doe je normaal gesproken een call naar je ECHTE database
     var total = quotes.length;
     var rand = Math.ceil(Math.random() * total);
     return new singleQuote('OK', quotes.indexOf(quotes[rand]), quotes[rand]);
@@ -37,7 +38,7 @@
 // 4. Add quote to array
   quoter.addQuote = function (quote) {
     quotes.push(quote);
-    return new singleQuote('OK', quotes.length-1, quote);
+    return new singleQuote('OK', quotes.length - 1, quote);
   };
 
 // 5. Delete quote from array
@@ -50,7 +51,6 @@
     return quotes.length;
   };
 
-})
-(module.exports);
+})(module.exports);
 
 

@@ -1,0 +1,253 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "nextPage": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 100,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 90,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ],
+    "previousPage": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 80,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google CSE"
+  },
+  "searchInformation": {
+    "searchTime": 0.28321,
+    "formattedSearchTime": "0.28",
+    "totalResults": "12300000",
+    "formattedTotalResults": "12,300,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Delta Force Chuck Norris Gif - Viewing Gallery",
+      "htmlTitle": "Delta Force <b>Chuck Norris</b> Gif - Viewing Gallery",
+      "link": "http://3.bp.blogspot.com/-nLhOukDdxyA/UlfmXmPmTAI/AAAAAAAAAVQ/y0EEXP_ZLuE/s1600/chuck+norris.jpg",
+      "displayLink": "galleryhip.com",
+      "snippet": "Delta Force Chuck Norris",
+      "htmlSnippet": "Delta Force <b>Chuck Norris</b>",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://galleryhip.com/delta-force-chuck-norris-gif.html",
+        "height": 900,
+        "width": 1600,
+        "byteSize": 105156,
+        "thumbnailLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlEKz5CmxLWwAxk2ukwrsOoAXlf_omU8XSs1BlNImaKtk5rIHscH0j97Xn",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "chuck norris earrings",
+      "htmlTitle": "<b>chuck norris</b> earrings",
+      "link": "http://fakeplus.com/pictures/jpg/-chuck-norris-earrings_20120529021608.jpg",
+      "displayLink": "fakeplus.com",
+      "snippet": "chuck norris earrings",
+      "htmlSnippet": "<b>chuck norris</b> earrings",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://fakeplus.com/28649/chuck-norris-earrings",
+        "height": 464,
+        "width": 492,
+        "byteSize": 57589,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8lNPMD6CmbaVWTUvR2bWlKIz4NUrjoWBHtM-qh07crxjeaUV19A3V_hEm",
+        "thumbnailHeight": 123,
+        "thumbnailWidth": 130
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris Random Fact Generator",
+      "htmlTitle": "<b>Chuck Norris</b> Random Fact Generator",
+      "link": "http://www.chucknorrisfactoids.com/images/chuck_norris_facts.jpg",
+      "displayLink": "www.chucknorrisfactoids.com",
+      "snippet": "Chuck Norris Random Fact",
+      "htmlSnippet": "<b>Chuck Norris</b> Random Fact",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.chucknorrisfactoids.com/",
+        "height": 370,
+        "width": 216,
+        "byteSize": 28651,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCPvbHpw-ca89m6ouOxPPqbloMz_MDKYuQP_pi6aX3Eptz6Sijrx-URg",
+        "thumbnailHeight": 122,
+        "thumbnailWidth": 71
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "maxresdefault.jpg",
+      "htmlTitle": "maxresdefault.jpg",
+      "link": "http://i.ytimg.com/vi/fdwC4vhc594/maxresdefault.jpg",
+      "displayLink": "www.youtube.com",
+      "snippet": "Chuck Norris stops a chainsaw",
+      "htmlSnippet": "<b>Chuck Norris</b> stops a chainsaw",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.youtube.com/watch?v=fdwC4vhc594",
+        "height": 720,
+        "width": 1280,
+        "byteSize": 71319,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLp9NFWVoeqduS0U40kmJMukiOw9iKv81PrG8IhmFbNavgRLKBSWV8n5E",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "chuck norris vs. toaa - Battles - Comic Vine",
+      "htmlTitle": "<b>chuck norris</b> vs. toaa - Battles - Comic Vine",
+      "link": "http://static.comicvine.com/uploads/original/6/60726/1280640-chucknorris.jpg",
+      "displayLink": "www.comicvine.com",
+      "snippet": "chuck norris vs. toaa",
+      "htmlSnippet": "<b>chuck norris</b> vs. toaa",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.comicvine.com/forums/battles-7/chuck-norris-vs-toaa-555022/",
+        "height": 480,
+        "width": 435,
+        "byteSize": 36520,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw04Tucj7uVfACsIocL7W4NO80bFhy5o9IkwKkzQLaCcEQW_3Ua0eXpu6E",
+        "thumbnailHeight": 129,
+        "thumbnailWidth": 117
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Picture Imp: Chuck Norris Tuesday - Transparent-",
+      "htmlTitle": "Picture Imp: <b>Chuck Norris</b> Tuesday - Transparent-",
+      "link": "http://transparent-aluminium.net/wp-content/uploads/2014/09/Chuck-Norris-Tuesday-7.jpg",
+      "displayLink": "transparent-aluminium.net",
+      "snippet": "Chuck Norris Tuesday",
+      "htmlSnippet": "<b>Chuck Norris</b> Tuesday",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://transparent-aluminium.net/2014/12/02/4911/",
+        "height": 2910,
+        "width": 640,
+        "byteSize": 423435,
+        "thumbnailLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTz9bUH6EKyY_FInI_rVfj64MuJBedD0b20pzQBOTGtQvyyt6bwaNhB4fg",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 33
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "30 Reasons Why Dwayne 'The Rock' Johnson Is The New Chuck Norris",
+      "htmlTitle": "30 Reasons Why Dwayne &#39;The Rock&#39; Johnson Is The New <b>Chuck Norris</b>",
+      "link": "http://cdn29.elitedaily.com/wp-content/uploads/2014/03/the-rock-chuck-norris-elite-daily.png",
+      "displayLink": "elitedaily.com",
+      "snippet": "the-rock-chuck-norris-elite-",
+      "htmlSnippet": "the-rock-<b>chuck</b>-<b>norris</b>-elite-",
+      "mime": "image/png",
+      "fileFormat": "Image Document",
+      "image": {
+        "contextLink": "http://elitedaily.com/sports/30-reasons-dwayne-rock-johnson-new-chuck-norris/",
+        "height": 300,
+        "width": 600,
+        "byteSize": 395420,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtocI63wipvMsHvxWriUa6iQ2CGIsfFYiGV-nPix60Qu1aGDG4VE95xE4",
+        "thumbnailHeight": 68,
+        "thumbnailWidth": 135
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris' epic Christmas split | 1070 WINA | Breaking news ...",
+      "htmlTitle": "<b>Chuck Norris</b>&#39; epic Christmas split | 1070 WINA | Breaking news <b>...</b>",
+      "link": "http://news.sagacom.com/wp-content/blogs.dir/3/files/2013/12/WP-ChuckNorrisSplit.jpg",
+      "displayLink": "wina.com",
+      "snippet": "Chuck Norris' epic Christmas",
+      "htmlSnippet": "<b>Chuck Norris</b>&#39; epic Christmas",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://wina.com/news/030030-chuck-norris-epic-christmas-split/",
+        "height": 400,
+        "width": 620,
+        "byteSize": 35212,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1qsMCWkJjAPhKWDz1HJF_PW2look6XC3PsQs_jKyHgFJ4axk34mqLwCM",
+        "thumbnailHeight": 88,
+        "thumbnailWidth": 136
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris' Kid",
+      "htmlTitle": "<b>Chuck Norris</b>&#39; Kid",
+      "link": "http://static.fjcdn.com/pictures/Chuck_2d9273_121341.jpg",
+      "displayLink": "www.funnyjunk.com",
+      "snippet": "Chuck Norris' Kid.",
+      "htmlSnippet": "<b>Chuck Norris</b>&#39; Kid.",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.funnyjunk.com/funny_pictures/57552/Chuck/",
+        "height": 600,
+        "width": 480,
+        "byteSize": 28992,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4PDR3ei0Q4-c6Md3VJaZgdJDcR5oeCIilxfcsN7-UlSCFie0INGzMy8ky",
+        "thumbnailHeight": 135,
+        "thumbnailWidth": 108
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "chuck-norris-phone-mv.jpg",
+      "htmlTitle": "<b>chuck</b>-<b>norris</b>-phone-mv.jpg",
+      "link": "http://media.nbcmiami.com/images/1234*675/chuck-norris-phone-mv.jpg",
+      "displayLink": "www.nbcmiami.com",
+      "snippet": "chuck-norris-phone-mv.jpg",
+      "htmlSnippet": "<b>chuck</b>-<b>norris</b>-phone-mv.jpg",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.nbcmiami.com/news/weird/Legendary-Chuck-Norris-Wants-to-Run-for-President-of-Texas.html",
+        "height": 675,
+        "width": 1234,
+        "byteSize": 91437,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJA8WbLkJvzbZQKgO7Nq_snr2j_LpFWRsAsdmUqFaKfIT2HnBYY2SQkodY",
+        "thumbnailHeight": 82,
+        "thumbnailWidth": 150
+      }
+    }
+  ]
+}

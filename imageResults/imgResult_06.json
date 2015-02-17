@@ -1,0 +1,254 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "nextPage": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 60,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 50,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ],
+    "previousPage": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 40,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google CSE"
+  },
+  "searchInformation": {
+    "searchTime": 0.263184,
+    "formattedSearchTime": "0.26",
+    "totalResults": "12300000",
+    "formattedTotalResults": "12,300,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Pics For > Chuck Norris Daughter",
+      "htmlTitle": "Pics For &gt; <b>Chuck Norris</b> Daughter",
+      "link": "http://api.ning.com/files/aj7bgxgY9bj2ppbAH3JV2GuF0HUSRkR9E8PLazXpzNit4BtI56qaLWXQ*T3Tw2g--fAFCVNc*oxZGd2DIXAZHLq0PAmp8NKp/ChuckNorriss1.jpg",
+      "displayLink": "pixshark.com",
+      "snippet": "Chuck norris d.",
+      "htmlSnippet": "<b>Chuck norris</b> d.",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://pixshark.com/chuck-norris-daughter.htm",
+        "height": 864,
+        "width": 1000,
+        "byteSize": 173601,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjyj8BuLRLUzQ_3QBSJZIMWP_nMuRc1-b4A6LwqOQ7TVVLTkuQcJEfMTbz9w",
+        "thumbnailHeight": 129,
+        "thumbnailWidth": 149
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris, 74, is as hardcore as ever",
+      "htmlTitle": "<b>Chuck Norris</b>, 74, is as hardcore as ever",
+      "link": "http://www.gannett-cdn.com/-mm-/710d3fc8af67a6d61b7c67391d571eec1ddb9e30/c=0-238-555-656&r=x404&c=534x401/local/-/media/USATODAY/USATODAY/2014/03/10//1394455895000-chuck.png",
+      "displayLink": "www.usatoday.com",
+      "snippet": "Chuck Norris, 74, is as",
+      "htmlSnippet": "<b>Chuck Norris</b>, 74, is as",
+      "mime": "image/png",
+      "fileFormat": "Image Document",
+      "image": {
+        "contextLink": "http://www.usatoday.com/story/news/nation-now/2014/03/10/chuck-norris-birthday-aging/6251193/",
+        "height": 401,
+        "width": 534,
+        "byteSize": 307326,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT47I4BTYCZi-JAd821zfy6RdK4r4on1qhG6AflLCfw7pjOUv_zLvbxdoo",
+        "thumbnailHeight": 99,
+        "thumbnailWidth": 132
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris.",
+      "htmlTitle": "<b>Chuck Norris</b>.",
+      "link": "http://chucknorris.com/store/cn%20old%20pages/fact%20shirt_files/chuckTHEFACT1.jpg",
+      "displayLink": "chucknorris.com",
+      "snippet": "Chuck Norris is.",
+      "htmlSnippet": "<b>Chuck Norris</b> is.",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://chucknorris.com/store/index.htm",
+        "height": 490,
+        "width": 406,
+        "byteSize": 63256,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZ7Q1akYt65Q6ClzG7ZS1zfMEN_H6niRvus5nJ9FIT0-pUic2D3oIOGS0",
+        "thumbnailHeight": 130,
+        "thumbnailWidth": 108
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Fi-M-Top10-Chuck-Norris- ...",
+      "htmlTitle": "Fi-M-Top10-<b>Chuck</b>-<b>Norris</b>- ...",
+      "link": "http://www.alan.com/wp-content/uploads/2014/06/Fi-M-Top10-Chuck-Norris-Moments-480i60_480x270.jpg",
+      "displayLink": "www.alan.com",
+      "snippet": "Fi-M-Top10-Chuck-Norris- ...",
+      "htmlSnippet": "Fi-M-Top10-<b>Chuck</b>-<b>Norris</b>- ...",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.alan.com/2014/06/26/chuck-norris-hates-secular-and-progressive-education/",
+        "height": 270,
+        "width": 480,
+        "byteSize": 48585,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQl9stdJsFU3vVV_ScuhtcbHwJkz33DFBG1Hi3uNbM_7i_HCp6hQTVm-A",
+        "thumbnailHeight": 73,
+        "thumbnailWidth": 129
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris - Rotten Tomatoes",
+      "htmlTitle": "<b>Chuck Norris</b> - Rotten Tomatoes",
+      "link": "http://content8.flixster.com/photo/31/25/27/3125278_ori.jpg",
+      "displayLink": "www.rottentomatoes.com",
+      "snippet": "Chuck Norris",
+      "htmlSnippet": "<b>Chuck Norris</b>",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.rottentomatoes.com/celebrity/chuck_norris/",
+        "height": 306,
+        "width": 200,
+        "byteSize": 12656,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXGtckKPAHvNFWUENKEEuaL1PBfffOse_nmdQUzLmDJB4B2wipoHsdMos",
+        "thumbnailHeight": 117,
+        "thumbnailWidth": 76
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "10 Real Facts About Chuck Norris | UniversalShare.net",
+      "htmlTitle": "10 Real Facts About <b>Chuck Norris</b> | UniversalShare.net",
+      "link": "http://www.universalshare.net/wp-content/uploads/2014/07/chuck-norris-premiere-the-expendables-2-01.jpg",
+      "displayLink": "www.universalshare.net",
+      "snippet": "ign.com",
+      "htmlSnippet": "ign.com",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.universalshare.net/10-real-facts-about-chuck-norris/",
+        "height": 1000,
+        "width": 793,
+        "byteSize": 198527,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT26MIjr_2Izcz4bD87CFfmIEwM14ircQuIadnnQ-FUMSde3N2Wg7o0SAk",
+        "thumbnailHeight": 149,
+        "thumbnailWidth": 118
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris - The MUGEN Database, the M.U.G.E.N content encyclopedia",
+      "htmlTitle": "<b>Chuck Norris</b> - The MUGEN Database, the M.U.G.E.N content encyclopedia",
+      "link": "http://vignette3.wikia.nocookie.net/mugen/images/b/b6/Chuck-norris.png/revision/latest?cb=20120615045306",
+      "displayLink": "mugen.wikia.com",
+      "snippet": "Chuck-norris",
+      "htmlSnippet": "<b>Chuck</b>-<b>norris</b>",
+      "mime": "image/",
+      "fileFormat": "Image Document",
+      "image": {
+        "contextLink": "http://mugen.wikia.com/wiki/Chuck_Norris",
+        "height": 269,
+        "width": 336,
+        "byteSize": 96448,
+        "thumbnailLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsynbyqWftaVGAbvqE9Jz7_Pep88rC284ZGnnG6vVkWXVVrTfnDgqhUw",
+        "thumbnailHeight": 95,
+        "thumbnailWidth": 119
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "San Francisco 49ers News — Niner Insider Blog » Staley ...",
+      "htmlTitle": "San Francisco 49ers News — Niner Insider Blog » Staley <b>...</b>",
+      "link": "http://blog.sfgate.com/49ers/files/2012/08/chuck-norris-headshot-2.jpg",
+      "displayLink": "blog.sfgate.com",
+      "snippet": "The fan ran across the field,",
+      "htmlSnippet": "The fan ran across the field,",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://blog.sfgate.com/49ers/2012/08/12/sheriff-staley-shares-his-interpretation-of-the-law/",
+        "height": 333,
+        "width": 240,
+        "byteSize": 11684,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSmiHfW6n_aD17x4y7Er84mNYEAJRFYLeHbTcwhxKJ2OuwpvMGjz2PTzwU",
+        "thumbnailHeight": 119,
+        "thumbnailWidth": 86
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "GAGBAY - Want To Know A Chuck Norris Fact?",
+      "htmlTitle": "GAGBAY - Want To Know A <b>Chuck Norris</b> Fact?",
+      "link": "http://cdn.gagbay.com/2012/05/want_to_know_a_chuck_norris_fact-78144.jpg",
+      "displayLink": "www.gagbay.com",
+      "snippet": "Want To Know A Chuck Norris",
+      "htmlSnippet": "Want To Know A <b>Chuck Norris</b>",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.gagbay.com/gag/want_to_know_a_chuck_norris_fact-78144/",
+        "height": 450,
+        "width": 600,
+        "byteSize": 81533,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8rZAzSFbGFeEhBt_AuM5F5VgBzQjwMPSQ6_3yM6IIqNaWgPKol3teeMtl",
+        "thumbnailHeight": 101,
+        "thumbnailWidth": 135
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Week 2 – Digital Identities: Chuck Norris | Stephanie Kempa",
+      "htmlTitle": "Week 2 – Digital Identities: <b>Chuck Norris</b> | Stephanie Kempa",
+      "link": "https://stephizzly.files.wordpress.com/2014/03/51162-when-chuck-norris-slices-onion-1muw.jpeg",
+      "displayLink": "stephizzly.wordpress.com",
+      "snippet": "Carlos 'Chuck' Ray Norris was",
+      "htmlSnippet": "Carlos &#39;<b>Chuck</b>&#39; Ray <b>Norris</b> was",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "https://stephizzly.wordpress.com/2014/03/20/chuck-norris/",
+        "height": 677,
+        "width": 550,
+        "byteSize": 60537,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTILYuKMrA96WXCkTQZQh4xPblcy5Su6eGEVLl-semG5Z-IcCTrffKB6X4",
+        "thumbnailHeight": 139,
+        "thumbnailWidth": 113
+      }
+    }
+  ]
+}

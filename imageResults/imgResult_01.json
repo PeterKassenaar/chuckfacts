@@ -1,0 +1,239 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "nextPage": [
+      {
+        "title": "Google Custom Search - chuck norris',",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris',",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - chuck norris',",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris',",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google CSE"
+  },
+  "searchInformation": {
+    "searchTime": 0.28237,
+    "formattedSearchTime": "0.28",
+    "totalResults": "12300000",
+    "formattedTotalResults": "12,300,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "So, I passed Chuck Norris today in the highway.. Thanking God I'm ...",
+      "htmlTitle": "So, I passed <b>Chuck Norris</b> today in the highway.. Thanking God I&#39;m <b>...</b>",
+      "link": "http://www.empireonline.com/images/uploaded/chuck-norris-uzis.jpg",
+      "displayLink": "www.reddit.com",
+      "snippet": "Id be careful what you say",
+      "htmlSnippet": "Id be careful what you say",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.reddit.com/r/pics/comments/2feyee/",
+        "height": 550,
+        "width": 775,
+        "byteSize": 234838,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRl03kp8ua0KMjpbcww8GxMo4auE-N3Q-KhUYqy9B41yn83rIPBzKDg1O5Z",
+        "thumbnailHeight": 101,
+        "thumbnailWidth": 142
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris - Biography - Film Actor, Martial Arts Expert ...",
+      "htmlTitle": "<b>Chuck Norris</b> - Biography - Film Actor, Martial Arts Expert <b>...</b>",
+      "link": "http://a1.files.biography.com/image/upload/c_fill,dpr_1.0,g_face,h_300,q_80,w_300/MTE5NDg0MDU1MjQ5OTc4ODk1.jpg",
+      "displayLink": "www.biography.com",
+      "snippet": "Chuck Norris",
+      "htmlSnippet": "<b>Chuck Norris</b>",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.biography.com/people/chuck-norris-15720761",
+        "height": 300,
+        "width": 300,
+        "byteSize": 19182,
+        "thumbnailLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1jmrmZj3vscDewj5eLD8yP77elukIEgOmnXY4Z0G-QYkd-GHA7BCyB0g",
+        "thumbnailHeight": 116,
+        "thumbnailWidth": 116
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris - Uncyclopedia, the content-free encyclopedia",
+      "htmlTitle": "<b>Chuck Norris</b> - Uncyclopedia, the content-free encyclopedia",
+      "link": "http://img3.wikia.nocookie.net/__cb20080312162141/uncyclopedia/images/d/dc/Chuck-norris-002.jpg",
+      "displayLink": "uncyclopedia.wikia.com",
+      "snippet": "Chuck-norris-002",
+      "htmlSnippet": "<b>Chuck</b>-<b>norris</b>-002",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://uncyclopedia.wikia.com/wiki/Chuck_Norris",
+        "height": 498,
+        "width": 400,
+        "byteSize": 32789,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2babUhU1lkOKZmxd7Mlh9KpfqWdroY0XmHbDVSSyoeXo80N72SSuKJGu5",
+        "thumbnailHeight": 130,
+        "thumbnailWidth": 104
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris' Weak-handed Grip on the Facts of 21st Century ...",
+      "htmlTitle": "<b>Chuck Norris</b>&#39; Weak-handed Grip on the Facts of 21st Century <b>...</b>",
+      "link": "https://truthabouttrade.org/wp-content/uploads/2014/08/chuck-norris-07.jpg",
+      "displayLink": "truthabouttrade.org",
+      "snippet": "chuck-norris-07",
+      "htmlSnippet": "<b>chuck</b>-<b>norris</b>-07",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "https://truthabouttrade.org/2014/08/07/chuck-norris-weak-handed-grip-on-the-facts-of-21st-century-agriculture/",
+        "height": 900,
+        "width": 1600,
+        "byteSize": 108745,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCdW6f3pOLRhHYUalruOUI-1K_ibXA2FZ4htjWJQHZd7L28DD6SMIksfS5",
+        "thumbnailHeight": 84,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris in Oblivion – The Elder Scrolls Fanon, the Elder ...",
+      "htmlTitle": "<b>Chuck Norris</b> in Oblivion – The Elder Scrolls Fanon, the Elder <b>...</b>",
+      "link": "http://vignette2.wikia.nocookie.net/tesfanon/images/5/5c/Chuck_Norris.jpg/revision/latest?cb=20081118030612",
+      "displayLink": "tesfanon.wikia.com",
+      "snippet": "Chuck Norris",
+      "htmlSnippet": "<b>Chuck Norris</b>",
+      "mime": "image/",
+      "fileFormat": "Image Document",
+      "image": {
+        "contextLink": "http://tesfanon.wikia.com/wiki/Chuck_Norris_in_Oblivion",
+        "height": 768,
+        "width": 768,
+        "byteSize": 69467,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8T213aVMRMb-BhgiMyTyCs8Ps0KX10cF-ncBnWfg0xA06o0tbnQdbDtW1bA",
+        "thumbnailHeight": 142,
+        "thumbnailWidth": 142
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "TogetherWeServed - A1C Carlos Ray Norris",
+      "htmlTitle": "TogetherWeServed - A1C Carlos Ray <b>Norris</b>",
+      "link": "http://s3.amazonaws.com/airforcephotos.togetherweserved.com/327177.jpg",
+      "displayLink": "airforce.togetherweserved.com",
+      "snippet": "Chuck Norris",
+      "htmlSnippet": "<b>Chuck Norris</b>",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://airforce.togetherweserved.com/profile/113685",
+        "height": 397,
+        "width": 319,
+        "byteSize": 68109,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGJt8WuUEQD4o3FLp8xFj1Ax3nFYkuVhBfroUEnwx0liqSk_sXhqokQA",
+        "thumbnailHeight": 124,
+        "thumbnailWidth": 100
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris - Wikipedia, the free encyclopedia",
+      "htmlTitle": "<b>Chuck Norris</b> - Wikipedia, the free encyclopedia",
+      "link": "http://upload.wikimedia.org/wikipedia/commons/b/b1/Chuck_Norris,_The_Delta_Force_1986.jpg",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Norris on the set of the film",
+      "htmlSnippet": "<b>Norris</b> on the set of the film",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://en.wikipedia.org/wiki/Chuck_Norris",
+        "height": 7382,
+        "width": 5141,
+        "byteSize": 7690240,
+        "thumbnailLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmJqZl0kWzHbv7K-4rGJQpSsGdP-cl6vQBHvgV30wLWxW2cckuoMkPEwjM",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 104
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris doesn't need DevOps, but have we beat “What is DevOps ...",
+      "htmlTitle": "<b>Chuck Norris</b> doesn&#39;t need DevOps, but have we beat “What is DevOps <b>...</b>",
+      "link": "http://devops.com/wp-content/uploads/2014/03/Chuck-Norris-Card-1.jpg",
+      "displayLink": "devops.com",
+      "snippet": "Chuck-Norris-Card (1)",
+      "htmlSnippet": "<b>Chuck</b>-<b>Norris</b>-Card (1)",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://devops.com/blogs/chuck-norris-doesnt-need-devops-but-have-we-beat-what-is-devops-to-death-yet/",
+        "height": 750,
+        "width": 600,
+        "byteSize": 71753,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRY-naA308js6vIVfB9zj6y4yePa6dImUfE2bTKbYIx-QA4vBAaAigePqk",
+        "thumbnailHeight": 141,
+        "thumbnailWidth": 113
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris Tribute Revolver | America Remembers",
+      "htmlTitle": "<b>Chuck Norris</b> Tribute Revolver | America Remembers",
+      "link": "http://www.americaremembers.com/wp-content/uploads/2013/08/Chuck-Norris-BW.jpg",
+      "displayLink": "www.americaremembers.com",
+      "snippet": "Chuck Norris B&W “",
+      "htmlSnippet": "<b>Chuck Norris</b> B&amp;W “",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.americaremembers.com/product/the-chuck-norris-tribute-revolver/",
+        "height": 864,
+        "width": 715,
+        "byteSize": 228938,
+        "thumbnailLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIbwR-ZRTJmHB0sc5gQsfMpBBnbnflhwXgIHxQqJJ2AIFvUNa7UlI4qyg",
+        "thumbnailHeight": 145,
+        "thumbnailWidth": 120
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck_Norris_(1976).jpg",
+      "htmlTitle": "<b>Chuck</b>_<b>Norris</b>_(1976).jpg",
+      "link": "http://upload.wikimedia.org/wikipedia/commons/e/e1/Chuck_Norris_(1976).jpg",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Norris in 1976",
+      "htmlSnippet": "<b>Norris</b> in 1976",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://en.wikipedia.org/wiki/Chuck_Norris",
+        "height": 864,
+        "width": 403,
+        "byteSize": 93127,
+        "thumbnailLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtVpn0FDdWTFnngZHEZy0w_gPad78ZxDb2xBn3wryEH0vNGCDjCLK2oP4",
+        "thumbnailHeight": 145,
+        "thumbnailWidth": 68
+      }
+    }
+  ]
+}

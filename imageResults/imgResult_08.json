@@ -1,0 +1,253 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "nextPage": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 80,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 70,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ],
+    "previousPage": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 60,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google CSE"
+  },
+  "searchInformation": {
+    "searchTime": 0.267041,
+    "formattedSearchTime": "0.27",
+    "totalResults": "12300000",
+    "formattedTotalResults": "12,300,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "7 Ways Chuck Norris Cold Calls Better Than You… Fact. - LevelEleven",
+      "htmlTitle": "7 Ways <b>Chuck Norris</b> Cold Calls Better Than You… Fact. - LevelEleven",
+      "link": "http://leveleleven.com/wp-content/uploads/2014/05/Chuck5.png",
+      "displayLink": "leveleleven.com",
+      "snippet": "Chuck Norris is so persuasive,",
+      "htmlSnippet": "<b>Chuck Norris</b> is so persuasive,",
+      "mime": "image/png",
+      "fileFormat": "Image Document",
+      "image": {
+        "contextLink": "http://leveleleven.com/2014/05/7-ways-chuck-norris-cold-calls-better-than-you/",
+        "height": 834,
+        "width": 1112,
+        "byteSize": 703725,
+        "thumbnailLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThbfYo0_T4RmUVriHPSpS8D54qqJeQS81HfffhZK0GxUwyu0IkqgbO3Pvb",
+        "thumbnailHeight": 113,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris 23404 | IOWALL",
+      "htmlTitle": "<b>Chuck Norris</b> 23404 | IOWALL",
+      "link": "http://static.comicvine.com/uploads/scale_medium/2/20720/3259531-chuck_norris_jedi_master.jpg",
+      "displayLink": "www.iowall.net",
+      "snippet": "Chuck Norris",
+      "htmlSnippet": "<b>Chuck Norris</b>",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.iowall.net/chuck-norris.html",
+        "height": 960,
+        "width": 683,
+        "byteSize": 51206,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpqTPOfXcec0Xcuvebxv28do1iSI9CKE_E94RogvBPcnwGoooUr083UkyQ",
+        "thumbnailHeight": 148,
+        "thumbnailWidth": 105
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris by Syolo on DeviantArt",
+      "htmlTitle": "<b>Chuck Norris</b> by Syolo on DeviantArt",
+      "link": "http://fc07.deviantart.net/fs71/f/2011/080/c/8/chuck_norris_by_syolo-d3c59j7.jpg",
+      "displayLink": "syolo.deviantart.com",
+      "snippet": "Chuck Norris by Syolo",
+      "htmlSnippet": "<b>Chuck Norris</b> by Syolo",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://syolo.deviantart.com/art/Chuck-Norris-201799555",
+        "height": 600,
+        "width": 750,
+        "byteSize": 84699,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxK7iTnLtsGP3uC6blJFAswjBcMvE5Umv--6_WtIWfp_D6DDCi_psJtLMW",
+        "thumbnailHeight": 113,
+        "thumbnailWidth": 141
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris vs Beyonder. - Battles - Comic Vine",
+      "htmlTitle": "<b>Chuck Norris</b> vs Beyonder. - Battles - Comic Vine",
+      "link": "http://static.comicvine.com/uploads/original/2/20720/3259531-chuck_norris_jedi_master.jpg",
+      "displayLink": "www.comicvine.com",
+      "snippet": "Say again?",
+      "htmlSnippet": "Say again?",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.comicvine.com/forums/battles-7/chuck-norris-vs-beyonder-1501054/",
+        "height": 702,
+        "width": 500,
+        "byteSize": 45849,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRk_D4R6ev_BaepefnmXkV0kU7Ae32KzAXtUq39tlaoQpH42BU1eZPb_Q44",
+        "thumbnailHeight": 140,
+        "thumbnailWidth": 100
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris poster by AethSphere on DeviantArt",
+      "htmlTitle": "<b>Chuck Norris</b> poster by AethSphere on DeviantArt",
+      "link": "http://fc02.deviantart.net/fs71/f/2011/028/5/2/chuck_norris_poster_by_aethsphere-d389mp3.jpg",
+      "displayLink": "aethsphere.deviantart.com",
+      "snippet": "Chuck Norris poster by",
+      "htmlSnippet": "<b>Chuck Norris</b> poster by",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://aethsphere.deviantart.com/art/Chuck-Norris-poster-195284775",
+        "height": 750,
+        "width": 600,
+        "byteSize": 68951,
+        "thumbnailLink": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWySfEx0DKQAbcbbVeKdixcqK2_Lfu6Z_H2ctrCmhdnMvXFv65zhNtjiY",
+        "thumbnailHeight": 141,
+        "thumbnailWidth": 113
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris Jokes no more ~ Illustration by SCHink23 on DeviantArt",
+      "htmlTitle": "<b>Chuck Norris</b> Jokes no more ~ Illustration by SCHink23 on DeviantArt",
+      "link": "http://fc09.deviantart.net/fs71/i/2013/211/c/5/chuck_norris_jokes_no_more___illustration_by_schink23-d6ftdyo.jpg",
+      "displayLink": "schink23.deviantart.com",
+      "snippet": "Chuck Norris Jokes no more",
+      "htmlSnippet": "<b>Chuck Norris</b> Jokes no more",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://schink23.deviantart.com/art/Chuck-Norris-Jokes-no-more-Illustration-389362416",
+        "height": 1448,
+        "width": 1024,
+        "byteSize": 343733,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiA8NJVtDqgkx1ZJBchsTngZLaH8Ll0RDWoGwfCVQu0XWNK5oXRf9RWbC6",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 106
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris - Biography - Film Actor, Martial Arts Expert ...",
+      "htmlTitle": "<b>Chuck Norris</b> - Biography - Film Actor, Martial Arts Expert <b>...</b>",
+      "link": "http://cp91279.biography.com/1000509261001/1000509261001_2152013859001_bio-top250-chucknorris-hero-HD-768x432-16x9.jpg",
+      "displayLink": "www.biography.com",
+      "snippet": "Chuck Norris - Early Life",
+      "htmlSnippet": "<b>Chuck Norris</b> - Early Life",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.biography.com/people/chuck-norris-15720761",
+        "height": 432,
+        "width": 768,
+        "byteSize": 40799,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5oJRihTuAkLiwsngO12SpBEp19GVHJzKlI02tj2dEZWL0-tX1iGA1Xpmo",
+        "thumbnailHeight": 80,
+        "thumbnailWidth": 142
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris wants to ban gay scouts | The Sun |News",
+      "htmlTitle": "<b>Chuck Norris</b> wants to ban gay scouts | The Sun |News",
+      "link": "http://img.thesun.co.uk/aidemitlum/archive/01536/chuck-norris_532_1536989a.jpg",
+      "displayLink": "www.thesun.co.uk",
+      "snippet": "Chuck Norris",
+      "htmlSnippet": "<b>Chuck Norris</b>",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.thesun.co.uk/sol/homepage/news/4397907/Chuck-Norris-wants-to-ban-gay-scouts.html",
+        "height": 508,
+        "width": 532,
+        "byteSize": 46651,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-tFNF6lOsmhkAqNyAvw3AF6Lw7FzLcbk6rw78iH3RHjTfpYTqGpfo9IA",
+        "thumbnailHeight": 126,
+        "thumbnailWidth": 132
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris Beard - Official Most Epic Thread - Beards and ...",
+      "htmlTitle": "<b>Chuck Norris</b> Beard - Official Most Epic Thread - Beards and <b>...</b>",
+      "link": "http://media.movietimetv.ca/files/2013/03/chucknorris3.jpg",
+      "displayLink": "www.barbershopforums.com",
+      "snippet": "Chuck Norris you say?",
+      "htmlSnippet": "<b>Chuck Norris</b> you say?",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.barbershopforums.com/talk/beards-and-moustaches/chuck-norris-beard-official-most-epic-thread/",
+        "height": 867,
+        "width": 600,
+        "byteSize": 152915,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHYRbBpJ1wL7cB6hd2WfCOgtdKuzG6SCgVJIq2FFUbtkWDD5q2FzzAqrd0",
+        "thumbnailHeight": 145,
+        "thumbnailWidth": 100
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris by Gghost on DeviantArt",
+      "htmlTitle": "<b>Chuck Norris</b> by Gghost on DeviantArt",
+      "link": "http://fc05.deviantart.net/fs71/f/2011/147/a/1/chuck_norris_by_gghost-d3hdct2.jpg",
+      "displayLink": "gghost.deviantart.com",
+      "snippet": "Chuck Norris by Gghost",
+      "htmlSnippet": "<b>Chuck Norris</b> by Gghost",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://gghost.deviantart.com/art/Chuck-Norris-210575126",
+        "height": 523,
+        "width": 375,
+        "byteSize": 47267,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQlIlWX__Z9jTN5MbbtpxwmnnEji4-hJN1PfXbRVGMwo2M-oLVk_uutOs",
+        "thumbnailHeight": 131,
+        "thumbnailWidth": 94
+      }
+    }
+  ]
+}

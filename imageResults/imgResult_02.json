@@ -1,0 +1,252 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "nextPage": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 30,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 20,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ],
+    "previousPage": [
+      {
+        "title": "Google Custom Search - chuck norris",
+        "totalResults": "12300000",
+        "searchTerms": "chuck norris",
+        "count": 10,
+        "startIndex": 10,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "016925672863067554966:9hjhhy4z60w",
+        "searchType": "image"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google CSE"
+  },
+  "searchInformation": {
+    "searchTime": 0.190302,
+    "formattedSearchTime": "0.19",
+    "totalResults": "12300000",
+    "formattedTotalResults": "12,300,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris Health, Fitness, Height, Weight, Chest, Biceps and ...",
+      "htmlTitle": "<b>Chuck Norris</b> Health, Fitness, Height, Weight, Chest, Biceps and <b>...</b>",
+      "link": "http://celebhealthy.com/wp-content/uploads/2014/04/Chuck-Norris-CelebHealthy_com.jpg",
+      "displayLink": "celebhealthy.com",
+      "snippet": "known as Chuck Norris,",
+      "htmlSnippet": "known as <b>Chuck Norris</b>,",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://celebhealthy.com/chuck-norris-health-fitness-height-weight-chest-biceps-and-waist-size/",
+        "height": 225,
+        "width": 300,
+        "byteSize": 14302,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJkHOMe0Z99bzLF7tLDDb4lQ4rAuWzfgp7itZPdEVtTrAm2nQOuLoAsw",
+        "thumbnailHeight": 87,
+        "thumbnailWidth": 116
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "chuck-norris-uzis.jpg",
+      "htmlTitle": "<b>chuck</b>-<b>norris</b>-uzis.jpg",
+      "link": "https://bus2alps.files.wordpress.com/2013/01/chuck-norris-uzis.jpg",
+      "displayLink": "thosewhowanderblog.com",
+      "snippet": "chuck-norris-uzis.jpg",
+      "htmlSnippet": "<b>chuck</b>-<b>norris</b>-uzis.jpg",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://thosewhowanderblog.com/2013/01/15/bus2alps-loves-chuck-norris/",
+        "height": 800,
+        "width": 1200,
+        "byteSize": 282399,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcjK0ysI3TMsFTAs8VnkLhClDFHNqX_u9oRcG01EiGrd4JWtk0q4uj884",
+        "thumbnailHeight": 100,
+        "thumbnailWidth": 150
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris - eRepublik Official Wiki",
+      "htmlTitle": "<b>Chuck Norris</b> - eRepublik Official Wiki",
+      "link": "http://wiki.erepublik.com/images/7/70/-Chuck_Norris-_01.jpg",
+      "displayLink": "wiki.erepublik.com",
+      "snippet": "-Chuck Norris- 01.jpg",
+      "htmlSnippet": "-<b>Chuck Norris</b>- 01.jpg",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://wiki.erepublik.com/index.php/Chuck_Norris",
+        "height": 254,
+        "width": 289,
+        "byteSize": 16829,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyXwVt2oNcBWLwyF41o7Eix26Jhvbke-w93XtU2-wr2ax4znYYUHM7xjc",
+        "thumbnailHeight": 101,
+        "thumbnailWidth": 115
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Actor Chuck Norris to Become Honorary Texas Ranger | XFINITY TV ...",
+      "htmlTitle": "Actor <b>Chuck Norris</b> to Become Honorary Texas Ranger | XFINITY TV <b>...</b>",
+      "link": "http://xfinity.comcast.net/blogs/tv/files/2010/12/chuck-norris.jpg",
+      "displayLink": "xfinity.comcast.net",
+      "snippet": "Chuck Norris (AP Photo/Gerald",
+      "htmlSnippet": "<b>Chuck Norris</b> (AP Photo/Gerald",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://xfinity.comcast.net/blogs/tv/2010/12/02/actor-chuck-norris-to-become-honorary-texas-ranger/",
+        "height": 300,
+        "width": 300,
+        "byteSize": 20947,
+        "thumbnailLink": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAD1p8Mzy8CmtwO1fwiZiYJcscUA1YXVr646O2JquUz5agTXoh2Dzwfg8",
+        "thumbnailHeight": 116,
+        "thumbnailWidth": 116
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris : Chuck Norris, homophobe ? - chuck norris homophobe ...",
+      "htmlTitle": "<b>Chuck Norris</b> : <b>Chuck Norris</b>, homophobe ? - <b>chuck norris</b> homophobe <b>...</b>",
+      "link": "http://media.meltybuzz.fr/article-930232-ajust_930/chuck-norris-homophobe.jpg",
+      "displayLink": "www.meltybuzz.fr",
+      "snippet": "Photo de Chuck Norris",
+      "htmlSnippet": "Photo de <b>Chuck Norris</b>",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.meltybuzz.fr/chuck-norris-serait-il-homophobe-galerie-306432-930232.html",
+        "height": 1157,
+        "width": 930,
+        "byteSize": 77767,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjAEcJkEHQXhakpGz_QrfqDAqXO3-UQsE0V5OkbVjcZG_eItLCQTuRbp4",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 121
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris - Simple English Wikipedia, the free encyclopedia",
+      "htmlTitle": "<b>Chuck Norris</b> - Simple English Wikipedia, the free encyclopedia",
+      "link": "http://upload.wikimedia.org/wikipedia/commons/9/93/ChuckNorris200611292256.jpg",
+      "displayLink": "simple.wikipedia.org",
+      "snippet": "Chuck Norris",
+      "htmlSnippet": "<b>Chuck Norris</b>",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://simple.wikipedia.org/wiki/Chuck_Norris",
+        "height": 780,
+        "width": 625,
+        "byteSize": 125920,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmuUXKYUOmaamXiunVHwSmpSqheQbbV402RBCfGEUdnALalqQCTUYeYZ0",
+        "thumbnailHeight": 142,
+        "thumbnailWidth": 114
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris Wallpapers High Definition",
+      "htmlTitle": "<b>Chuck Norris</b> Wallpapers High Definition",
+      "link": "http://wallfor.net/wp-content/uploads/2015/02/1536_chuck_norris.jpg",
+      "displayLink": "wallfor.net",
+      "snippet": "Chuck Norris 1080p",
+      "htmlSnippet": "<b>Chuck Norris</b> 1080p",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://wallfor.net/chuck-norris/",
+        "height": 3000,
+        "width": 2378,
+        "byteSize": 429586,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMiVe5ikAseui2OZhCagoQnAm0C85ox2kVcIBnfbZY9qzGmvaUnCk23un2",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 119
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris",
+      "htmlTitle": "<b>Chuck Norris</b>",
+      "link": "http://24.media.tumblr.com/tumblr_m8xc67l5xV1r9t8m2o1_1280.jpg",
+      "displayLink": "blindenreport.de",
+      "snippet": "August 17 — Chuck Norris.",
+      "htmlSnippet": "August 17 — <b>Chuck Norris</b>.",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://blindenreport.de/wp-content/css/chuck-norris.html",
+        "height": 1008,
+        "width": 800,
+        "byteSize": 102606,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQD7wxbDwSzvreyvD3j6utlNEtiXP8ZtrnbaqgNGQAQcif9875gVcF7-y3j",
+        "thumbnailHeight": 150,
+        "thumbnailWidth": 119
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris - Actor - CineMagia.",
+      "htmlTitle": "<b>Chuck Norris</b> - Actor - CineMagia.",
+      "link": "http://static.cinemagia.ro/img/db/actor/00/48/99/chuck-norris-892101l.jpg",
+      "displayLink": "www.cinemagia.ro",
+      "snippet": "Poze Chuck Norris",
+      "htmlSnippet": "Poze <b>Chuck Norris</b>",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "http://www.cinemagia.ro/actori/chuck-norris-4899/",
+        "height": 425,
+        "width": 337,
+        "byteSize": 39875,
+        "thumbnailLink": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzp-j6fI445sUlFAglAUN6JSODA4zvr1ERycZ72OB-NmPO5BjTOK_-9A",
+        "thumbnailHeight": 126,
+        "thumbnailWidth": 100
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Chuck Norris (@TruthAboutChuck) | Twitter",
+      "htmlTitle": "<b>Chuck Norris</b> (@TruthAboutChuck) | Twitter",
+      "link": "https://pbs.twimg.com/profile_images/2098661241/chuck_norris_pic.jpg",
+      "displayLink": "twitter.com",
+      "snippet": "Keyboard Shortcuts",
+      "htmlSnippet": "Keyboard Shortcuts",
+      "mime": "image/jpeg",
+      "image": {
+        "contextLink": "https://twitter.com/truthaboutchuck",
+        "height": 400,
+        "width": 500,
+        "byteSize": 559959,
+        "thumbnailLink": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAXwJG2rzL1anIOiYuA9vH16FbU6Fec7O6qKc6J9vYdgppN6QrR3CP806a",
+        "thumbnailHeight": 104,
+        "thumbnailWidth": 130
+      }
+    }
+  ]
+}
